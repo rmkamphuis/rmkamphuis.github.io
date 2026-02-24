@@ -46,8 +46,11 @@ I built a Decision Tree model to predict passenger survival on the Titanic, whil
 ## Technical Skills 
 
 **Programming & Tools:** Python, R, Excel, Pandas, NumPy, dplyr, Scikit-learn
+
 **Machine Learning & Analytics:** Classification, Regression, Decision Trees, Random Forest, Statistical Analysis
+
 **Data Visualization:** Matplotlib, ggplot2
+
 **Data Management:** Data Wrangling, Cleaning
 
 ## Let's Connect

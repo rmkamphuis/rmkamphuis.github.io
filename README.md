@@ -55,5 +55,5 @@ I built a Decision Tree model to predict passenger survival on the Titanic, whil
 
 ## Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/rachel-kamphuis-b251623a6
+- LinkedIn: https://www.linkedin.com/in/rachel-kamphuis
 - Email: rmkamphuis@eastlink.ca
